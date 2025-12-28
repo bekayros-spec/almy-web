@@ -1,8 +1,9 @@
 streamlit
 langchain
-langchain-groq
 langchain-community
 langchain-core
+langchain-groq
 faiss-cpu
 huggingface-hub
 sentence-transformers
+numpy<2
