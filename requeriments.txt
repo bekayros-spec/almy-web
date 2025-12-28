@@ -1,7 +1,0 @@
-streamlit
-langchain-groq
-langchain-community
-langchain-core
-faiss-cpu
-huggingface-hub
-sentence-transformers
